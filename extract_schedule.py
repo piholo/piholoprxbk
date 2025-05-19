@@ -180,7 +180,146 @@ def extract_schedule_container(max_retries=3, retry_delay=5):
 
     return False
 
+def extract_guardacalcio_image_links(max_retries=3, retry_delay=5):
+    """
+    Utilizza Playwright per scaricare i link delle immagini dalla pagina di guardacalcio.icu
+    e li salva in un file.
+    """
+    url = "https://guardacalcio.icu/partite-streaming.html"
+    
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # File di output per i link delle immagini
+    image_links_output = os.path.join(script_dir, "guardacalcio_image_links.txt") 
+
+    print(f"Accesso alla pagina {url} per estrarre i link delle immagini...")
+
+    extracted_links = []
+
+    for attempt in range(1, max_retries + 1):
+        print(f"Tentativo {attempt} di {max_retries}...")
+        
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True) 
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            )
+            page = context.new_page()
+
+            try:
+                print("Navigazione alla pagina...")
+                page.goto(url, timeout=90000) # Aumentato a 90 secondi
+                
+                print("Attesa per il caricamento completo e superamento verifiche...")
+                # Attendi che l'elemento principale della pagina sia visibile
+                try:
+                    page.wait_for_selector('div#home', timeout=30000) # Attendi fino a 30 secondi
+                    print("Elemento #home trovato, pagina caricata.")
+                except PlaywrightTimeoutError:
+                    print("AVVISO: Timeout in attesa dell'elemento #home. La pagina potrebbe non essere completamente caricata o bloccata.")
+                    # Continua comunque, potresti aver ricevuto l'HTML parziale
+
+                # Estrai l'HTML del body per analizzarlo con BeautifulSoup
+                html_content = page.evaluate("""() => {
+                    const body = document.querySelector('body');
+                    return body ? body.outerHTML : '';
+                }""")
+
+                if not html_content:
+                    print("AVVISO: Contenuto HTML del body non trovato o vuoto!")
+                    if attempt < max_retries:
+                        print(f"Attesa di {retry_delay} secondi prima del prossimo tentativo...")
+                        browser.close()
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                        continue
+                    return False
+
+                print("Analisi HTML con BeautifulSoup e estrazione link immagini...")
+                soup = BeautifulSoup(html_content, 'html.parser')
+
+                # Cerca tutti i tag <img>
+                img_tags = soup.find_all('img')
+                print(f"Trovate {len(img_tags)} immagini nella pagina.")
+
+                # Estrai i link src
+                for img in img_tags:
+                    if img.has_attr('src'):
+                        src = img['src']
+                        # Assicurati che l'URL sia assoluto
+                        if src.startswith('http'):
+                            extracted_links.append(src)
+                        else:
+                            # Costruisci URL assoluto
+                            base_url = "https://guardacalcio.icu"
+                            if src.startswith('/'):
+                                extracted_links.append(base_url + src)
+                            else:
+                                extracted_links.append(base_url + '/' + src)
+
+                if extracted_links:
+                    print(f"Trovati {len(extracted_links)} link di immagini. Salvataggio in {image_links_output}...")
+                    with open(image_links_output, "w", encoding="utf-8") as f:
+                        for link in extracted_links:
+                            f.write(link + "\n")
+
+                    print(f"Link immagini salvati in {image_links_output}")
+                    browser.close()
+                    return True # Successo
+
+                else:
+                    print("Nessun link immagine trovato nella pagina.")
+                    browser.close()
+                    if attempt < max_retries:
+                        print(f"Attesa di {retry_delay} secondi prima del prossimo tentativo...")
+                        time.sleep(retry_delay)
+                        retry_delay *= 2
+                        continue
+                    return False # Fallimento dopo i tentativi
+
+            except PlaywrightTimeoutError as e:
+                print(f"ERRORE DI TIMEOUT DURANTE LA NAVIGAZIONE O L'ATTESA: {str(e)}")
+                try:
+                    page.screenshot(path=f"error_screenshot_guardacalcio_attempt_{attempt}.png")
+                    print(f"Screenshot dell'errore salvato in error_screenshot_guardacalcio_attempt_{attempt}.png")
+                except:
+                    pass
+                browser.close()
+                if attempt < max_retries:
+                    print(f"Attesa di {retry_delay} secondi prima del prossimo tentativo...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                else:
+                    print(f"Tutti i {max_retries} tentativi falliti per {url}.")
+                    return False
+                    
+            except Exception as e:
+                print(f"ERRORE GENERALE: {str(e)}")
+                try:
+                    page.screenshot(path=f"error_screenshot_guardacalcio_attempt_{attempt}.png")
+                    print(f"Screenshot dell'errore salvato in error_screenshot_guardacalcio_attempt_{attempt}.png")
+                except:
+                    pass
+                browser.close()
+                if attempt < max_retries:
+                    print(f"Attesa di {retry_delay} secondi prima del prossimo tentativo...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                else:
+                    print(f"Tutti i {max_retries} tentativi falliti per {url}.")
+                    return False
+
+    return False # Fallimento dopo i tentativi
+
 if __name__ == "__main__":
-    success = extract_schedule_container()
+    # Puoi scegliere quale funzione eseguire qui.
+    # Per scaricare i link delle immagini da guardacalcio:
+    success = extract_guardacalcio_image_links()
     if not success:
+        print("Errore durante l'estrazione dei link delle immagini da guardacalcio.")
         exit(1)
+
+    # Se vuoi ancora estrarre lo schedule da daddylive, puoi chiamare anche questa:
+    # success = extract_schedule_container()
+    # if not success:
+    #     print("Errore durante l'estrazione dello schedule da daddylive.")
+    #     exit(1)
