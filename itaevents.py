@@ -31,7 +31,7 @@ DADDY= "dad"
 LOGO_CACHE = {}
 
 # Add a cache for logos loaded from the local file
-LOCAL_LOGO_CACHE = {}
+LOCAL_LOGO_CACHE = [] # Changed to a list to store URLs directly
 LOCAL_LOGO_FILE = "guardacalcio_image_links.txt"
 
 # Define keywords for filtering channels
@@ -64,9 +64,8 @@ def load_local_logos():
             with open(LOCAL_LOGO_FILE, 'r', encoding='utf-8') as f:
                 for line in f:
                     line = line.strip()
-                    if line and ':' in line:
-                        key, url = line.split(':', 1)
-                        LOCAL_LOGO_CACHE[key.strip().lower()] = url.strip()
+                    if line: # Add non-empty lines to the list
+                        LOCAL_LOGO_CACHE.append(line)
             print(f"Caricati {len(LOCAL_LOGO_CACHE)} loghi dal file locale: {LOCAL_LOGO_FILE}")
         except FileNotFoundError:
             print(f"File locale dei loghi non trovato: {LOCAL_LOGO_FILE}. Procedo con lo scraping web.")
@@ -86,6 +85,8 @@ def get_dynamic_logo(event_name):
 
     # Crea una chiave di cache specifica per questa partita
     cache_key = None
+    team1 = None
+    team2 = None
     if teams_match:
         team1 = teams_match.group(1).strip()
         team2 = teams_match.group(2).strip()
@@ -98,12 +99,29 @@ def get_dynamic_logo(event_name):
 
         # Check if we have this specific match in LOCAL_LOGO_CACHE (from local file)
         load_local_logos() # Ensure local logos are loaded
-        if cache_key.lower() in LOCAL_LOGO_CACHE:
-            logo_url = LOCAL_LOGO_CACHE[cache_key.lower()]
-            print(f"Logo trovato nel file locale per: {cache_key} -> {logo_url}")
-            # Add to main cache for future use
-            LOGO_CACHE[cache_key] = logo_url
-            return logo_url
+
+        # --- Nuova logica per cercare nomi squadre negli URL locali ---
+        if LOCAL_LOGO_CACHE:
+            team1_lower = team1.lower() if team1 else ""
+            team2_lower = team2.lower() if team2 else ""
+
+            for logo_url in LOCAL_LOGO_CACHE:
+                logo_url_lower = logo_url.lower()
+                # Check if both team names are in the URL (case-insensitive)
+                if team1_lower and team2_lower and team1_lower in logo_url_lower and team2_lower in logo_url_lower:
+                     print(f"Logo trovato nel file locale per: {cache_key} -> {logo_url}")
+                     # Add to main cache for future use
+                     if cache_key:
+                         LOGO_CACHE[cache_key] = logo_url
+                     return logo_url
+                # Check if at least one team name is in the URL (partial match fallback)
+                elif (team1_lower and team1_lower in logo_url_lower) or (team2_lower and team2_lower in logo_url_lower):
+                     print(f"Logo parziale trovato nel file locale per: {cache_key} -> {logo_url}")
+                     # Add to main cache for future use
+                     if cache_key:
+                         LOGO_CACHE[cache_key] = logo_url
+                     return logo_url
+        # --- Fine nuova logica ---
 
 
     # Verifica se l'evento è di Serie A o altre leghe
