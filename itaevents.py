@@ -138,6 +138,10 @@ def get_dynamic_logo(event_name):
             response = requests.get(guardacalcio_url, headers=headers_guardacalcio, timeout=10)
             html_content = response.text
 
+            print("HTML ricevuto da guardacalcio.icu:")
+            print(html_content[:1000]) # Stampa solo i primi 1000 caratteri per non appesantire i log
+            print("...")
+
             # Parse with BeautifulSoup
             soup = BeautifulSoup(html_content, 'html.parser')
 
