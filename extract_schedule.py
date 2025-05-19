@@ -316,10 +316,10 @@ if __name__ == "__main__":
     success = extract_guardacalcio_image_links()
     if not success:
         print("Errore durante l'estrazione dei link delle immagini da guardacalcio.")
-        exit(1)
+        #exit(1)
 
     # Se vuoi ancora estrarre lo schedule da daddylive, puoi chiamare anche questa:
-    # success = extract_schedule_container()
-    # if not success:
-    #     print("Errore durante l'estrazione dello schedule da daddylive.")
-    #     exit(1)
+    success = extract_schedule_container() # Decommentato
+    if not success:
+        print("Errore durante l'estrazione dello schedule da daddylive.")
+        exit(1) # Usciamo se l'estrazione dello schedule fallisce, poiché itaevents.py ne ha bisogno
