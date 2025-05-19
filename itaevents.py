@@ -15,16 +15,16 @@ from urllib.parse import quote_plus  # Add this import
 # Constants
 REFERER = "forcedtoplay.xyz"
 ORIGIN = "forcedtoplay.xyz"
-#PROXY = "https://prx.pibuco.duckdns.org/proxy/m3u?url="
-PROXY = "https://mfp.pibuco.duckdns.org/extractor/video?host=DLHD&d="
-PROXY2 = "&redirect_stream=true&api_password=mfp"
+PROXY = "https://prx.pibuco.duckdns.org/proxy/m3u?url="
+#PROXY = "https://mfp.pibuco.duckdns.org/extractor/video?host=DLHD&d="
+#PROXY2 = "&redirect_stream=true&api_password=mfp"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 NUM_CHANNELS = 10000
 DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "itaevents.m3u8"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
-SKYSTR = "email"
-GUARCAL = "icu"
+SKYSTR = "help"
+GUARCAL = "blog"
 DADDY= "dad"
 
 # Add a cache for logos to avoid repeated requests
@@ -847,7 +847,7 @@ def process_events():
                                     event_logo = get_dynamic_logo(game["event"])
 
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{clean_sport_key}", {channel_name_str}\n')
-                                    file.write(f"{PROXY}{stream_url_dynamic}{PROXY2}\n\n")
+                                    file.write(f"{PROXY}{stream_url_dynamic}\n\n")
 
                                 processed_channels += 1
                                 filtered_channels += 1
