@@ -53,6 +53,7 @@ jobs:
         run: |
           python itaevents.py
           python fullita.py
+          python hat.py
           
       - name: Run script epg
         env:
