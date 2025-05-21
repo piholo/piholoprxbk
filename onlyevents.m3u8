@@ -1,633 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shelbourne vs Drogheda United" tvg-name="19:45 Ireland Republic - Premier Division : Shelbourne vs Drogheda United - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+#EXTINF:-1 tvg-id="Kubota High Limit Racing Grandview - Kubota High Limit Racing Grandview" tvg-name="23:00 Kubota High Limit Racing Grandview - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", FloRacing
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
 
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shamrock Rovers vs St Patrick's" tvg-name="20:00 Ireland Republic - Premier Division : Shamrock Rovers vs St Patrick's - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+#EXTINF:-1 tvg-id="2025 Better Half Dash at Trackhouse Motorplex - 2025 Better Half Dash at Trackhouse Motorplex" tvg-name="23:00 2025 Better Half Dash at Trackhouse Motorplex - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", FloRacing
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-59.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - CSKA 1948 vs Krumovgrad" tvg-name="15:45 Bulgaria - Parva Liga : CSKA 1948 vs Krumovgrad - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-465.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - CSKA 1948 vs Krumovgrad" tvg-name="15:45 Bulgaria - Parva Liga : CSKA 1948 vs Krumovgrad - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="Israel - Liga Leumit - Hapoel Ramat Gan vs Bnei Yehuda Sport" tvg-name="17:00 Israel - Liga Leumit : Hapoel Ramat Gan vs Bnei Yehuda Sport - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Stars Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-147.php
-
-#EXTINF:-1 tvg-id="Israel - Liga Leumit - Maccabi Herzliya vs Hapoel Petah Tikva" tvg-name="17:00 Israel - Liga Leumit : Maccabi Herzliya vs Hapoel Petah Tikva - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Live Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
-
-#EXTINF:-1 tvg-id="Israel - Liga Leumit - Hapoel Kfar Saba vs Hapoel Tel Aviv" tvg-name="17:00 Israel - Liga Leumit : Hapoel Kfar Saba vs Hapoel Tel Aviv - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Plus Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Albania U17 vs Portugal U17" tvg-name="17:00 UEFA U17 European Championship : Albania U17 vs Portugal U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Albania U17 vs Portugal U17" tvg-name="17:00 UEFA U17 European Championship : Albania U17 vs Portugal U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 3
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-93.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Albania U17 vs Portugal U17" tvg-name="17:00 UEFA U17 European Championship : Albania U17 vs Portugal U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
-
-#EXTINF:-1 tvg-id="Denmark - Super Liga - Brøndby vs Midtjylland" tvg-name="18:00 Denmark - Super Liga : Brøndby vs Midtjylland - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport X Denmark
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
-
-#EXTINF:-1 tvg-id="Denmark - Super Liga - Brøndby vs Midtjylland" tvg-name="18:00 Denmark - Super Liga : Brøndby vs Midtjylland - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 8 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-943.php
-
-#EXTINF:-1 tvg-id="Denmark - Super Liga - Brøndby vs Midtjylland" tvg-name="18:00 Denmark - Super Liga : Brøndby vs Midtjylland - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 1 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Widzew Łódź vs Puszcza Niepołomice" tvg-name="18:00 Poland - Ekstraklasa : Widzew Łódź vs Puszcza Niepołomice - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 3 Poland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-259.php
-
-#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Widzew Łódź vs Puszcza Niepołomice" tvg-name="18:00 Poland - Ekstraklasa : Widzew Łódź vs Puszcza Niepołomice - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 5 Poland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-75.php
-
-#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Widzew Łódź vs Puszcza Niepołomice" tvg-name="18:00 Poland - Ekstraklasa : Widzew Łódź vs Puszcza Niepołomice - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-434.php
-
-#EXTINF:-1 tvg-id="Poland - I Liga - Miedź Legnica vs Nieciecza" tvg-name="18:00 Poland - I Liga : Miedź Legnica vs Nieciecza - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TVP Sport Poland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-128.php
-
-#EXTINF:-1 tvg-id="Sweden - Superettan - Landskrona vs Helsingborg" tvg-name="18:00 Sweden - Superettan : Landskrona vs Helsingborg - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 6 Sweden
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-15.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Mjällby vs Brommapojkarna" tvg-name="18:00 Sweden - Allsvenskan : Mjällby vs Brommapojkarna - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 5 Sweden
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-16.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Sirius vs Norrköping" tvg-name="18:00 Sweden - Allsvenskan : Sirius vs Norrköping - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 4 Sweden
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-17.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Degerfors vs IFK Göteborg" tvg-name="18:00 Sweden - Allsvenskan : Degerfors vs IFK Göteborg - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 2 Sweden
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-18.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Elfsborg vs Djurgården" tvg-name="18:10 Sweden - Allsvenskan : Elfsborg vs Djurgården - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 1 Sweden
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-19.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Slavia Sofia vs Lokomotiv Plovdiv" tvg-name="18:15 Bulgaria - Parva Liga : Slavia Sofia vs Lokomotiv Plovdiv - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-465.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Slavia Sofia vs Lokomotiv Plovdiv" tvg-name="18:15 Bulgaria - Parva Liga : Slavia Sofia vs Lokomotiv Plovdiv - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 4 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Rapid Bucureşti vs CFR Cluj" tvg-name="18:30 Romania - Liga I : Rapid Bucureşti vs CFR Cluj - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Rapid Bucureşti vs CFR Cluj" tvg-name="18:30 Romania - Liga I : Rapid Bucureşti vs CFR Cluj - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-583.php
-
-#EXTINF:-1 tvg-id="Russia - Premier League - Lokomotiv Moskva vs CSKA Moskva" tvg-name="18:30 Russia - Premier League : Lokomotiv Moskva vs CSKA Moskva - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-573.php
-
-#EXTINF:-1 tvg-id="Russia - Premier League - Lokomotiv Moskva vs CSKA Moskva" tvg-name="18:30 Russia - Premier League : Lokomotiv Moskva vs CSKA Moskva - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match TV Russia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
-
-#EXTINF:-1 tvg-id="Russia - Premier League - Lokomotiv Moskva vs CSKA Moskva" tvg-name="18:30 Russia - Premier League : Lokomotiv Moskva vs CSKA Moskva - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
-
-#EXTINF:-1 tvg-id="Russia - Premier League - Lokomotiv Moskva vs CSKA Moskva" tvg-name="18:30 Russia - Premier League : Lokomotiv Moskva vs CSKA Moskva - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-580.php
-
-#EXTINF:-1 tvg-id="Israel - Ligat Ha'Al - Beitar Jerusalem vs Hapoel Be'er Sheva" tvg-name="18:30 Israel - Ligat Ha'Al : Beitar Jerusalem vs Hapoel Be'er Sheva - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 4 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
-
-#EXTINF:-1 tvg-id="Israel - Ligat Ha'Al - Maccabi Haifa vs Maccabi Tel Aviv" tvg-name="18:30 Israel - Ligat Ha'Al : Maccabi Haifa vs Maccabi Tel Aviv - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
-
-#EXTINF:-1 tvg-id="Uruguay - Primera Division - Racing vs Miramar Misiones" tvg-name="19:00 Uruguay - Primera Division : Racing vs Miramar Misiones - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", VTV+ Uruguay
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-391.php
-
-#EXTINF:-1 tvg-id="Uruguay - Primera Division - Racing vs Miramar Misiones" tvg-name="19:00 Uruguay - Primera Division : Racing vs Miramar Misiones - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
-
-#EXTINF:-1 tvg-id="Hungary - NB II - Kazincbarcika vs Mezőkövesd-Zsóry" tvg-name="19:00 Hungary - NB II : Kazincbarcika vs Mezőkövesd-Zsóry - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sport Hungary
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-265.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Germany U17 vs France U17" tvg-name="19:30 UEFA U17 European Championship : Germany U17 vs France U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport News DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Germany U17 vs France U17" tvg-name="19:30 UEFA U17 European Championship : Germany U17 vs France U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Mix DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Germany U17 vs France U17" tvg-name="19:30 UEFA U17 European Championship : Germany U17 vs France U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
-
-#EXTINF:-1 tvg-id="UEFA U17 European Championship - Germany U17 vs France U17" tvg-name="19:30 UEFA U17 European Championship : Germany U17 vs France U17 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 3
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-93.php
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Frosinone" tvg-name="19:30 Italy - Serie B : Salernitana vs Frosinone - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Frosinone" tvg-name="19:30 Italy - Serie B : Salernitana vs Frosinone - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-756.php
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Frosinone" tvg-name="19:30 Italy - Serie B : Salernitana vs Frosinone - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Stars Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-147.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LALIGA TV Hypermotion
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-539.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Football 2 Russia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-137.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 7 Cyprus
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-917.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 9 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-944.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Start Greece
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-637.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 5 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Córdoba vs Mirandés" tvg-name="19:30 Spain - Segunda Division : Córdoba vs Mirandés - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
-
-#EXTINF:-1 tvg-id="Chile - Primera Division - Unión Española vs Everton" tvg-name="20:00 Chile - Primera Division : Unión Española vs Everton - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT SPORTS Premium Chile
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Optus Sport
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Hub Premier 1
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", USA Network
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-343.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", NBC UNIVERSO USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-845.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 8 NZ
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-595.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Main Event UK
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-38.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Premier League UK
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-130.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 Spain
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-445.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Premier League DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Foot France
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 3 Afrique
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-488.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Turkey
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-64.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 3 Cyprus
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-913.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Caribbean
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-21.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Premier League
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-125.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 2 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 2 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-584.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Premier League Greece
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-599.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV3+ HD Denmark
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-819.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", V Sport Premium
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 2 Bulgaria
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-466.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-150.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 1
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-91.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
-
-#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Liverpool" tvg-name="20:00 England - Premier League : Brighton & Hove Albion vs Liverpool - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-140.php
-
-#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Stjarnan vs Víkingur Reykjavík" tvg-name="20:15 Iceland - Besta deild karla : Stjarnan vs Víkingur Reykjavík - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Stöð 2 Sport 5 Iceland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
-
-#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Breidablik vs Valur" tvg-name="20:15 Iceland - Besta deild karla : Breidablik vs Valur - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Stöð 2 Sport 1 Iceland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Argentinos Juniors vs San Lorenzo" tvg-name="23:00 Argentina - Primera División : Argentinos Juniors vs San Lorenzo - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports Argentina
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-388.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Argentinos Juniors vs San Lorenzo" tvg-name="23:00 Argentina - Primera División : Argentinos Juniors vs San Lorenzo - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Argentinos Juniors vs San Lorenzo" tvg-name="23:00 Argentina - Primera División : Argentinos Juniors vs San Lorenzo - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Argentinos Juniors vs San Lorenzo" tvg-name="23:00 Argentina - Primera División : Argentinos Juniors vs San Lorenzo - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Argentinos Juniors vs San Lorenzo" tvg-name="23:00 Argentina - Primera División : Argentinos Juniors vs San Lorenzo - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 3 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
-
-#EXTINF:-1 tvg-id="Uruguay - Primera Division - Boston River vs Cerro" tvg-name="23:00 Uruguay - Primera Division : Boston River vs Cerro - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", VTV+ Uruguay
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-391.php
-
-#EXTINF:-1 tvg-id="Uruguay - Primera Division - Boston River vs Cerro" tvg-name="23:00 Uruguay - Primera Division : Boston River vs Cerro - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
-
-#EXTINF:-1 tvg-id="Chile - Primera Division - Colo-Colo vs Ñublense" tvg-name="23:00 Chile - Primera Division : Colo-Colo vs Ñublense - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT SPORTS Premium Chile
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
-
-#EXTINF:-1 tvg-id="Colombia - Primera A - Llaneros vs Deportes Tolima" tvg-name="00:00 Colombia - Primera A : Llaneros vs Deportes Tolima - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Win+ Futbol Colombia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-392.php
-
-#EXTINF:-1 tvg-id="Brazil - Brasileiro Feminino - Internacional RS vs Palmeiras" tvg-name="00:00 Brazil - Brasileiro Feminino : Internacional RS vs Palmeiras - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportv Brazil
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-78.php
-
-#EXTINF:-1 tvg-id="Chile - Primera Division - La Serena vs Deportes Iquique" tvg-name="01:30 Chile - Primera Division : La Serena vs Deportes Iquique - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT SPORTS Premium Chile
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Boca Juniors vs Independiente" tvg-name="01:30 Argentina - Primera División : Boca Juniors vs Independiente - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Premium Argentina
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-387.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Boca Juniors vs Independiente" tvg-name="01:30 Argentina - Primera División : Boca Juniors vs Independiente - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Boca Juniors vs Independiente" tvg-name="01:30 Argentina - Primera División : Boca Juniors vs Independiente - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Boca Juniors vs Independiente" tvg-name="01:30 Argentina - Primera División : Boca Juniors vs Independiente - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Boca Juniors vs Independiente" tvg-name="01:30 Argentina - Primera División : Boca Juniors vs Independiente - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 3 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
-
-#EXTINF:-1 tvg-id="Peru - Primera Division - Alianza Lima vs Alianza Universidad" tvg-name="02:00 Peru - Primera Division : Alianza Lima vs Alianza Universidad - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Liga 1 Max Peru
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
-#EXTINF:-1 tvg-id="Peru - Primera Division - Alianza Lima vs Alianza Universidad" tvg-name="02:00 Peru - Primera Division : Alianza Lima vs Alianza Universidad - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Deportes
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-643.php
-
-#EXTINF:-1 tvg-id="Colombia - Primera A - Medellín vs Deportivo Pereira" tvg-name="02:05 Colombia - Primera A : Medellín vs Deportivo Pereira - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Win+ Futbol Colombia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-392.php
-
-#EXTINF:-1 tvg-id="Court Suzanne-Lenglen - Court Suzanne-Lenglen" tvg-name="09:00 Court Suzanne-Lenglen - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1511.php
-
-#EXTINF:-1 tvg-id="Court 14 - Court 14" tvg-name="09:00 Court 14 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1512.php
-
-#EXTINF:-1 tvg-id="Court 7 - Court 7" tvg-name="09:00 Court 7 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1513.php
-
-#EXTINF:-1 tvg-id="Court 6 - Court 6" tvg-name="09:00 Court 6 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1514.php
-
-#EXTINF:-1 tvg-id="Court 2 - Court 2" tvg-name="09:00 Court 2 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1515.php
-
-#EXTINF:-1 tvg-id="Court 3 - Court 3" tvg-name="09:00 Court 3 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1516.php
-
-#EXTINF:-1 tvg-id="Court 4 - Court 4" tvg-name="09:00 Court 4 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1517.php
-
-#EXTINF:-1 tvg-id="Court 5 - Court 5" tvg-name="09:00 Court 5 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1518.php
-
-#EXTINF:-1 tvg-id="Court 8 - Court 8" tvg-name="09:00 Court 8 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1519.php
-
-#EXTINF:-1 tvg-id="Court 9 - Court 9" tvg-name="09:00 Court 9 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1521.php
-
-#EXTINF:-1 tvg-id="Court 10 - Court 10" tvg-name="09:00 Court 10 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1522.php
-
-#EXTINF:-1 tvg-id="Court 11 - Court 11" tvg-name="09:00 Court 11 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1523.php
-
-#EXTINF:-1 tvg-id="Court 12 - Court 12" tvg-name="09:00 Court 12 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1524.php
-
-#EXTINF:-1 tvg-id="Court 13 - Court 13" tvg-name="09:00 Court 13 - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1525.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Collignon R. vs Nakashima B." tvg-name="11:00 ATP - HAMBURG : Collignon R. vs Nakashima B. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Giron M. vs Bautista-Agut R." tvg-name="12:00 ATP - HAMBURG : Giron M. vs Bautista-Agut R. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Rublev A. vs Dzumhur D." tvg-name="12:30 ATP - HAMBURG : Rublev A. vs Dzumhur D. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Gojo B. vs Lehecka J." tvg-name="13:30 ATP - HAMBURG : Gojo B. vs Lehecka J. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Zverev A. vs Kovacevic A." tvg-name="14:30 ATP - HAMBURG : Zverev A. vs Kovacevic A. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Struff J-L. vs Engel J." tvg-name="17:00 ATP - HAMBURG : Struff J-L. vs Engel J. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Lajovic D. vs Fearnley J." tvg-name="10:30 ATP - GENEVA : Lajovic D. vs Fearnley J. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Nishikori K. vs Tien L." tvg-name="12:00 ATP - GENEVA : Nishikori K. vs Tien L. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Arnaldi M. vs Gaston H." tvg-name="13:30 ATP - GENEVA : Arnaldi M. vs Gaston H. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Norrie C. vs Stricker D." tvg-name="17:00 ATP - GENEVA : Norrie C. vs Stricker D. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Fucsovics M. vs Bergs Z." tvg-name="18:30 ATP - GENEVA : Fucsovics M. vs Bergs Z. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Cornet A. vs Bouzkova M." tvg-name="10:00 WTA - STRASBOURG : Cornet A. vs Bouzkova M. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Kessler M. vs Krueger A." tvg-name="10:00 WTA - STRASBOURG : Kessler M. vs Krueger A. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Haddad Maia B. vs Tauson C." tvg-name="11:30 WTA - STRASBOURG : Haddad Maia B. vs Tauson C. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Wang Xin. vs Lys E." tvg-name="11:30 WTA - STRASBOURG : Wang Xin. vs Lys E. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Kenin S." tvg-name="13:00 WTA - STRASBOURG : Collins D. vs Kenin S. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Kalinskaya A. vs Dolehide C." tvg-name="13:00 WTA - STRASBOURG : Kalinskaya A. vs Dolehide C. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Frech M. vs Blinkova A." tvg-name="14:30 WTA - STRASBOURG : Frech M. vs Blinkova A. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Raducanu E. vs Kasatkina D." tvg-name="16:30 WTA - STRASBOURG : Raducanu E. vs Kasatkina D. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1515.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Li A. vs Timofeeva M." tvg-name="11:00 WTA - RABAT : Li A. vs Timofeeva M. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Tomljanovic A. vs Tomova V." tvg-name="11:00 WTA - RABAT : Tomljanovic A. vs Tomova V. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Cristian J. vs Kotliar Y." tvg-name="12:30 WTA - RABAT : Cristian J. vs Kotliar Y. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Sonmez Z. vs Bronzetti L." tvg-name="12:30 WTA - RABAT : Sonmez Z. vs Bronzetti L. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Bouzas Maneiro J. vs Grabher J." tvg-name="14:00 WTA - RABAT : Bouzas Maneiro J. vs Grabher J. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Cocciaretto E. vs Osorio C." tvg-name="14:00 WTA - RABAT : Cocciaretto E. vs Osorio C. - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-46.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-884.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-636.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-438.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-915.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Premium 3 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-773.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-383.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 4 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Gold Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-148.php
-
-#EXTINF:-1 tvg-id="IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway - IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway" tvg-name="18:00 IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway - IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway" tvg-name="18:00 IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
-
-#EXTINF:-1 tvg-id="IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway - IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway" tvg-name="18:00 IndyCar Series Season Practice Session 11th - Indianapolis Motor Speedway - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 2 NZ
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-589.php
-
-#EXTINF:-1 tvg-id="British Premiership Belle Vue Aces - Leicester Lions - British Premiership Belle Vue Aces - Leicester Lions" tvg-name="19:30 British Premiership Belle Vue Aces - Leicester Lions - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Netflix PPV
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", SuperSport Variety 4
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-419.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", SuperSport Grandstand
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-412.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="01:00 WWE Monday Night RAW - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Supersports Action
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-420.php
-
-#EXTINF:-1 tvg-id="Poland, PLK - Wilki Morskie Szczecin vs. Trefl Sopot" tvg-name="16:30 Poland, PLK : Wilki Morskie Szczecin vs. Trefl Sopot - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 1 Poland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
-
-#EXTINF:-1 tvg-id="Super League - Hapoel Haifa vs Hapoel Afula" tvg-name="16:45 Super League : Hapoel Haifa vs Hapoel Afula - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
-
-#EXTINF:-1 tvg-id="Süper Ligi - Bahcesehir Koleji vs. Merkezefendi Belediyesi Denizli Basket" tvg-name="17:00 Süper Ligi : Bahcesehir Koleji vs. Merkezefendi Belediyesi Denizli Basket - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 5 Turkey
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9.php
-
-#EXTINF:-1 tvg-id="Süper Ligi - Bahcesehir Koleji vs. Merkezefendi Belediyesi Denizli Basket" tvg-name="17:00 Süper Ligi : Bahcesehir Koleji vs. Merkezefendi Belediyesi Denizli Basket - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 2 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="Liga Nationala - CSM CSU Oradea vs. Cso Voluntari" tvg-name="17:00 Liga Nationala : CSM CSU Oradea vs. Cso Voluntari - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
-
-#EXTINF:-1 tvg-id="Liga Nationala - CSM CSU Oradea vs. Cso Voluntari" tvg-name="17:00 Liga Nationala : CSM CSU Oradea vs. Cso Voluntari - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Prima Sport 2 Romania
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-584.php
-
-#EXTINF:-1 tvg-id="VTB United League - Lokomotiv Kuban vs Zenit Petersburg" tvg-name="18:00 VTB United League : Lokomotiv Kuban vs Zenit Petersburg - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", МАТЧ! СТРАНА
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-24.php
-
-#EXTINF:-1 tvg-id="VTB United League - Lokomotiv Kuban vs Zenit Petersburg" tvg-name="18:00 VTB United League : Lokomotiv Kuban vs Zenit Petersburg - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 3 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-431.php
-
-#EXTINF:-1 tvg-id="Super League - Elitzur Maccabi Netanya vs Ironi Kiryat Ata" tvg-name="18:55 Super League : Elitzur Maccabi Netanya vs Ironi Kiryat Ata - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
-
-#EXTINF:-1 tvg-id="Lega A - Trento vs Olimpia Milano" tvg-name="19:00 Lega A : Trento vs Olimpia Milano - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
-
-#EXTINF:-1 tvg-id="Lega A - Trento vs Olimpia Milano" tvg-name="19:00 Lega A : Trento vs Olimpia Milano - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 3 Poland
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-129.php
-
-#EXTINF:-1 tvg-id="Lega A - Trento vs Olimpia Milano" tvg-name="19:00 Lega A : Trento vs Olimpia Milano - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 2 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
-
-#EXTINF:-1 tvg-id="Lega A - Trento vs Olimpia Milano" tvg-name="19:00 Lega A : Trento vs Olimpia Milano - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-629.php
-
-#EXTINF:-1 tvg-id="Lega A - Trento vs Olimpia Milano" tvg-name="19:00 Lega A : Trento vs Olimpia Milano - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 2 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-141.php
-
-#EXTINF:-1 tvg-id="Lega A - Trapani vs Reggiana" tvg-name="19:30 Lega A : Trapani vs Reggiana - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Zona DAZN IT
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
-
-#EXTINF:-1 tvg-id="Lega A - Trapani vs Reggiana" tvg-name="19:30 Lega A : Trapani vs Reggiana - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 4 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-581.php
-
-#EXTINF:-1 tvg-id="Lega A - Brescia vs Trieste" tvg-name="19:45 Lega A : Brescia vs Trieste - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 5 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-940.php
-
-#EXTINF:-1 tvg-id="WNBA - Dallas Wings W vs Seattle Storm W" tvg-name="01:00 WNBA : Dallas Wings W vs Seattle Storm W - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-404.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-338.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", truTV USA
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-341.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-411.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
-
-#EXTINF:-1 tvg-id="NBA - New York Knicks vs Boston Celtics" tvg-name="01:00 NBA : New York Knicks vs Boston Celtics - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
-
-#EXTINF:-1 tvg-id="Handball-Bundesliga - SC Magdeburg vs Hannover-Burgdorf" tvg-name="19:00 Handball-Bundesliga : SC Magdeburg vs Hannover-Burgdorf - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Vodafone Sport
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-260.php
-
-#EXTINF:-1 tvg-id="Handball-Bundesliga - SC Magdeburg vs Hannover-Burgdorf" tvg-name="19:00 Handball-Bundesliga : SC Magdeburg vs Hannover-Burgdorf - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", TV3 Max Denmark
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-223.php
-
-#EXTINF:-1 tvg-id="Handball-Bundesliga - SC Magdeburg vs Hannover-Burgdorf" tvg-name="19:00 Handball-Bundesliga : SC Magdeburg vs Hannover-Burgdorf - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Cosmote Sport 6 Greece
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-627.php
-
-#EXTINF:-1 tvg-id="Handball-Bundesliga - SC Magdeburg vs Hannover-Burgdorf" tvg-name="19:00 Handball-Bundesliga : SC Magdeburg vs Hannover-Burgdorf - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Sport 7 Serbia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-942.php
-
-#EXTINF:-1 tvg-id="Handball-Bundesliga - SC Magdeburg vs Hannover-Burgdorf" tvg-name="19:00 Handball-Bundesliga : SC Magdeburg vs Hannover-Burgdorf - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport Klub 3 Croatia
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
-
-#EXTINF:-1 tvg-id="Handball-Bundesliga - SC Magdeburg vs Hannover-Burgdorf" tvg-name="19:00 Handball-Bundesliga : SC Magdeburg vs Hannover-Burgdorf - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 3 Israel
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
-
-#EXTINF:-1 tvg-id="Superliga Americana de Rugby - Pampas Xv vs Selknam" tvg-name="00:00 Superliga Americana de Rugby : Pampas Xv vs Selknam - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", ESPN2 Argentina
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-150.php
-
-#EXTINF:-1 tvg-id="Major League Rugby - RFC Los Angeles at Chicago Hounds" tvg-name="01:00 Major League Rugby : RFC Los Angeles at Chicago Hounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Fanduel Sports Network SoCal
-https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-902.php
 
 #EXTINF:-1 tvg-id="United Arab Emirates UAE Pro League - Al Wasl vs Bani Yas" tvg-name="15:10 United Arab Emirates UAE Pro League : Al Wasl vs Bani Yas - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Dubai Sports 1
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-604.php
@@ -712,6 +88,9 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Shabab vs Al Ittihad" tvg-name="19:00 Saudi Arabia - Pro League : Al Shabab vs Al Ittihad - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-475.php
+
+#EXTINF:-1 tvg-id="Campeonato Brasileiro De Futebol Sub-20 - Cruzeiro vs Corinthians" tvg-name="19:00 Campeonato Brasileiro De Futebol Sub-20 : Cruzeiro vs Corinthians - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportv Brazil
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-78.php
 
 #EXTINF:-1 tvg-id="UEFA U17 European Championship - Italy U17 vs Czechia U17" tvg-name="19:30 UEFA U17 European Championship : Italy U17 vs Czechia U17 - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
@@ -1306,4 +685,712 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 
 #EXTINF:-1 tvg-id="PWBA Bowling USBC Queens - PWBA Bowling USBC Queens" tvg-name="00:00 PWBA Bowling USBC Queens - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Bowling", CBS Sports Network USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Women's Champions League - Wuhan Jiangda ’s FC vs Hồ Chí Minh City" tvg-name="09:00 Asia - AFC Women's Champions League : Wuhan Jiangda ’s FC vs Hồ Chí Minh City - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-468.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Women's Champions League - Wuhan Jiangda ’s FC vs Hồ Chí Minh City" tvg-name="09:00 Asia - AFC Women's Champions League : Wuhan Jiangda ’s FC vs Hồ Chí Minh City - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Women's Champions League - Incheon Red Angels vs Melbourne City" tvg-name="13:00 Asia - AFC Women's Champions League : Incheon Red Angels vs Melbourne City - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-468.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Women's Champions League - Incheon Red Angels vs Melbourne City" tvg-name="13:00 Asia - AFC Women's Champions League : Incheon Red Angels vs Melbourne City - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="ASEAN Club Championship - Buriram United vs Cong An Hanoi" tvg-name="13:30 ASEAN Club Championship : Buriram United vs Cong An Hanoi - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", True Sport 2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="Israel Liga Al, Women - MS Kiryat Gat vs Maccabi Hadera" tvg-name="16:30 Israel Liga Al, Women : MS Kiryat Gat vs Maccabi Hadera - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Plus Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="Hungary NB I Women Playoffs - Ferencvarosi Budapest vs. ETO FC Gyor" tvg-name="16:30 Hungary NB I Women Playoffs : Ferencvarosi Budapest vs. ETO FC Gyor - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sport Hungary
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-265.php
+
+#EXTINF:-1 tvg-id="Serbia - Serbian Cup - Vojvodina vs Crvena Zvezda" tvg-name="17:00 Serbia - Serbian Cup : Vojvodina vs Crvena Zvezda - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 1 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SSC Extra 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-426.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-571.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport Premium 2 Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Sport 360 France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Deportes
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-643.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 7 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-942.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 3 Greece
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-624.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 2 Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Nassr vs Al Khaleej" tvg-name="17:10 Saudi Arabia - Pro League : Al Nassr vs Al Khaleej - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Kholood vs Al Feiha" tvg-name="17:25 Saudi Arabia - Pro League : Al Kholood vs Al Feiha - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SSC Extra 2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="Netherlands Eredivisie - Dordrecht vs Willem II" tvg-name="17:45 Netherlands Eredivisie : Dordrecht vs Willem II - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 1 NL
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
+
+#EXTINF:-1 tvg-id="Norway - NM Cup - Molde vs Kristiansund" tvg-name="18:00 Norway - NM Cup : Molde vs Kristiansund - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", NRK2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-28.php
+
+#EXTINF:-1 tvg-id="Norway - NM Cup - Lillestrøm vs Fredrikstad" tvg-name="18:00 Norway - NM Cup : Lillestrøm vs Fredrikstad - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", NRK3
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-29.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Falkenberg vs Trelleborg FF" tvg-name="18:00 Sweden - Superettan : Falkenberg vs Trelleborg FF - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Max Extra 4 Sweden
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Utsikten vs Örebro" tvg-name="18:00 Sweden - Superettan : Utsikten vs Örebro - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Max Extra 3 Sweden
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-59.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Västerås SK vs Östersunds FK" tvg-name="18:00 Sweden - Superettan : Västerås SK vs Östersunds FK - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Max Extra 1 Sweden
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Örgryte vs Sandviken" tvg-name="18:00 Sweden - Superettan : Örgryte vs Sandviken - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Max Extra 2 Sweden
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-69.php
+
+#EXTINF:-1 tvg-id="Sweden Svenska Cupen, Women - Hammarby IF vs Norrköping DFK" tvg-name="18:00 Sweden Svenska Cupen, Women : Hammarby IF vs Norrköping DFK - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", svt2 Sweden
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-30.php
+
+#EXTINF:-1 tvg-id="Sweden Svenska Cupen, Women - Hammarby IF vs Norrköping DFK" tvg-name="18:00 Sweden Svenska Cupen, Women : Hammarby IF vs Norrköping DFK - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Sportkanalen
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SSC 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV3 Portugal
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-454.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport Premium 2 Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Deportes
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-643.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-429.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 7 Greece
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
+
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - Al Wehda vs Al Hilal" tvg-name="19:00 Saudi Arabia - Pro League : Al Wehda vs Al Hilal - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 4 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Crotone" tvg-name="19:00 Italy - Serie C : Vicenza vs Crotone - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Giana Erminio" tvg-name="19:00 Italy - Serie C : Ternana vs Giana Erminio - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 255 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Audace Cerignola vs Atalanta II" tvg-name="19:00 Italy - Serie C : Audace Cerignola vs Atalanta II - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Vis Pesaro" tvg-name="19:00 Italy - Serie C : Pescara vs Vis Pesaro - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="Campeonato Brasileiro Feminino De Futebol - Bragantino vs Fluminense" tvg-name="19:00 Campeonato Brasileiro Feminino De Futebol : Bragantino vs Fluminense - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV2 BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="North Macedonia - Kup na Makedonija - Vardar vs Struga" tvg-name="19:00 North Macedonia - Kup na Makedonija : Vardar vs Struga - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-581.php
+
+#EXTINF:-1 tvg-id="France Ligue 1 - Metz vs Reims" tvg-name="19:00 France Ligue 1 : Metz vs Reims - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 1 France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
+
+#EXTINF:-1 tvg-id="France Ligue 1 - Metz vs Reims" tvg-name="19:00 France Ligue 1 : Metz vs Reims - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
+
+#EXTINF:-1 tvg-id="France Ligue 1 - Metz vs Reims" tvg-name="19:00 France Ligue 1 : Metz vs Reims - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports HD 4
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-94.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Cremonese" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Cremonese - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-77.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Cremonese" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Cremonese - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Live Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="19:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-86.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="19:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-756.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="19:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Live Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 1 UK
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Vodafone Sport
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-260.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premier Sports 1 Ireland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-771.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-435.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Plus+
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-437.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTL DE
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-740.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SRF zwei
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV5 Portugal
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-290.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport Premium 1 Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-121.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Foot France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-463.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-11.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tipik Belgium
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-13.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sports Hungary
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-265.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UniMás
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-133.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Digitalb
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-105.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportsMax 2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-106.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTK1 Kosovo
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-107.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ŠTV 1 Slovenia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-108.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", JOJ Šport Slovakia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-14.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS Australia 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS Australia 2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-925.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 1 Greece
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-622.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", HRT 2 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-15.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", bTV Action Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-481.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Supersport Grandstand
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-412.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-140.php
+
+#EXTINF:-1 tvg-id="Morocco - Moroccan Cup - FAR Rabat vs CR Khemis Zemamra" tvg-name="20:00 Morocco - Moroccan Cup : FAR Rabat vs CR Khemis Zemamra - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arryadia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-16.php
+
+#EXTINF:-1 tvg-id="Campeonato Brasileiro Feminino De Futebol - América-MG vs Corinthians" tvg-name="20:30 Campeonato Brasileiro Feminino De Futebol : América-MG vs Corinthians - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-78.php
+
+#EXTINF:-1 tvg-id="Sudamericano U-17 Femenino - Peru U17 vs Ecuador U17" tvg-name="21:00 Sudamericano U-17 Femenino : Peru U17 vs Ecuador U17 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV2 BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="Copa do Brasil - Fortaleza vs Retrô" tvg-name="23:00 Copa do Brasil : Fortaleza vs Retrô - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-78.php
+
+#EXTINF:-1 tvg-id="Copa do Brasil - Fortaleza vs Retrô" tvg-name="23:00 Copa do Brasil : Fortaleza vs Retrô - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premiere BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-88.php
+
+#EXTINF:-1 tvg-id="Sudamericano U-17 Femenino - Brazil U17 vs Chile U17" tvg-name="23:30 Sudamericano U-17 Femenino : Brazil U17 vs Chile U17 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV2 BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="North America - CONCACAF W Championship - América vs NJ/NY Gotham FC" tvg-name="00:20 North America - CONCACAF W Championship : América vs NJ/NY Gotham FC - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-925.php
+
+#EXTINF:-1 tvg-id="US Open Cup - New York RB vs Dallas" tvg-name="00:30 US Open Cup : New York RB vs Dallas - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - América vs NJ/NY Gotham FC" tvg-name="00:30 CONCACAF W Champions Cup : América vs NJ/NY Gotham FC - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Deportes
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-375.php
+
+#EXTINF:-1 tvg-id="Argentina - Copa Argentina - Lanús vs Vélez Sarsfield" tvg-name="01:10 Argentina - Copa Argentina : Lanús vs Vélez Sarsfield - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TyC Sports Argentina
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-746.php
+
+#EXTINF:-1 tvg-id="Argentina - Copa Argentina - Lanús vs Vélez Sarsfield" tvg-name="01:10 Argentina - Copa Argentina : Lanús vs Vélez Sarsfield - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV2 Portugal
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
+
+#EXTINF:-1 tvg-id="Copa do Brasil - Corinthians vs Novorizontino" tvg-name="01:30 Copa do Brasil : Corinthians vs Novorizontino - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-78.php
+
+#EXTINF:-1 tvg-id="Copa do Brasil - Corinthians vs Novorizontino" tvg-name="01:30 Copa do Brasil : Corinthians vs Novorizontino - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premiere BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-88.php
+
+#EXTINF:-1 tvg-id="Sudamericano U-17 Femenino - Paraguay U17 vs Colombia U17" tvg-name="01:30 Sudamericano U-17 Femenino : Paraguay U17 vs Colombia U17 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV2 BR
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="Canadian Championship - Vancouver FC vs Cavalry" tvg-name="03:00 Canadian Championship : Vancouver FC vs Cavalry - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
+
+#EXTINF:-1 tvg-id="Costa Rica - Primera Division - Alajuelense vs Deportivo Saprissa" tvg-name="03:00 Costa Rica - Primera Division : Alajuelense vs Deportivo Saprissa - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FUTV
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="North America - CONCACAF W Championship - Tigres UANL vs Portland Thorns" tvg-name="03:20 North America - CONCACAF W Championship : Tigres UANL vs Portland Thorns - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-925.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - Tigres UANL vs Portland Thorns" tvg-name="03:30 CONCACAF W Champions Cup : Tigres UANL vs Portland Thorns - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - Tigres UANL vs Portland Thorns" tvg-name="03:30 CONCACAF W Champions Cup : Tigres UANL vs Portland Thorns - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Deportes
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-375.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court Suzanne-Lenglen" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court Suzanne-Lenglen - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 11
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1511.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 14" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 14 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 12
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1512.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 7" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 7 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 13
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1513.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 6" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 6 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 14
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1514.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 2" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 2 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 16
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1516.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 3" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 3 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 17
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1517.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 4" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 4 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 18
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1518.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 5" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 5 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 19
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1519.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 8" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 8 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 21
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1521.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 9" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 9 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 22
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1522.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 10" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 10 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 23
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1523.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 11" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 11 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 24
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1524.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 12" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 12 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 25
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1525.php
+
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 13" tvg-name="09:00 ROLAND GARROS QUALIFYING : Court 13 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 26
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1526.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Bautista-Agut R. vs Tiafoe F." tvg-name="11:00 ATP - HAMBURG : Bautista-Agut R. vs Tiafoe F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Lehecka J. vs Cerundolo F." tvg-name="11:30 ATP - HAMBURG : Lehecka J. vs Cerundolo F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 8
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Rublev A. vs Engel J." tvg-name="12:30 ATP - HAMBURG : Rublev A. vs Engel J. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Davidovich Fokina A. vs Cobolli F." tvg-name="12:30 ATP - HAMBURG : Davidovich Fokina A. vs Cobolli F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 8
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Darderi L. vs Nakashima B." tvg-name="14:00 ATP - HAMBURG : Darderi L. vs Nakashima B. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 8
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Zverev A. vs Muller A." tvg-name="15:00 ATP - HAMBURG : Zverev A. vs Muller A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Mpetshi Perricard G. vs Auger-Aliassime F." tvg-name="17:00 ATP - HAMBURG : Mpetshi Perricard G. vs Auger-Aliassime F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - GENEVA - Fritz T. vs Halys Q." tvg-name="10:30 ATP - GENEVA : Fritz T. vs Halys Q. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
+
+#EXTINF:-1 tvg-id="ATP - GENEVA - Khachanov K. vs Nishikori K." tvg-name="12:00 ATP - GENEVA : Khachanov K. vs Nishikori K. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
+
+#EXTINF:-1 tvg-id="ATP - GENEVA - Rinderknech A. vs Hurkacz H." tvg-name="13:00 ATP - GENEVA : Rinderknech A. vs Hurkacz H. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
+
+#EXTINF:-1 tvg-id="ATP - GENEVA - Fucsovics M. vs Djokovic N." tvg-name="17:00 ATP - GENEVA : Fucsovics M. vs Djokovic N. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
+
+#EXTINF:-1 tvg-id="ATP - GENEVA - Norrie C. vs Machac T." tvg-name="18:30 ATP - GENEVA : Norrie C. vs Machac T. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Haddad Maia B. vs Krueger A." tvg-name="10:00 WTA - STRASBOURG : Haddad Maia B. vs Krueger A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Blinkova A. vs Navarro E." tvg-name="11:30 WTA - STRASBOURG : Blinkova A. vs Navarro E. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Raducanu E." tvg-name="13:00 WTA - STRASBOURG : Collins D. vs Raducanu E. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Raducanu E." tvg-name="13:00 WTA - STRASBOURG : Collins D. vs Raducanu E. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 15
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1515.php
+
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Pegula J. vs Kalinskaya A." tvg-name="16:30 WTA - STRASBOURG : Pegula J. vs Kalinskaya A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Bouzas Maneiro J. vs Nahimana S." tvg-name="11:00 WTA - RABAT : Bouzas Maneiro J. vs Nahimana S. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 5
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Joint M. vs Volynets K." tvg-name="11:00 WTA - RABAT : Joint M. vs Volynets K. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 4
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Li A. vs Baptiste H." tvg-name="11:00 WTA - RABAT : Li A. vs Baptiste H. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Rus A. vs Mateas M." tvg-name="12:30 WTA - RABAT : Rus A. vs Mateas M. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 4
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Pieri T. vs Tomljanovic A." tvg-name="12:30 WTA - RABAT : Pieri T. vs Tomljanovic A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Bolsova Zadoinov A. vs Cristian J." tvg-name="12:30 WTA - RABAT : Bolsova Zadoinov A. vs Cristian J. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 5
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Rakhimova K. vs Osorio C." tvg-name="14:00 WTA - RABAT : Rakhimova K. vs Osorio C. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - RABAT - Sevastova A. vs Sonmez Z." tvg-name="15:30 WTA - RABAT : Sevastova A. vs Sonmez Z. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1503.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-46.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-884.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-636.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-438.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-915.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Premium 3 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 2 Romania
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-401.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-773.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-383.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 4 Romania
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Gold Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-148.php
+
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="10:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="01:00 All Elite Wrestling: Dynamite - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", TBS USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-336.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="01:00 All Elite Wrestling: Dynamite - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", TSN2
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-112.php
+
+#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="01:00 All Elite Wrestling: Dynamite - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WWE", Fox Sports Premium MX
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-830.php
+
+#EXTINF:-1 tvg-id="Men's basketball - ORLEN Basket League" tvg-name="16:20 Men's basketball : ORLEN Basket League - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Lithuanian League - Siauliai vs Zalgiris" tvg-name="16:50 Lithuanian League : Siauliai vs Zalgiris - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="Serbia KLS, Playoffs - FMP Beograd vs KK Mega MIS" tvg-name="17:00 Serbia KLS, Playoffs : FMP Beograd vs KK Mega MIS - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Premium
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="BBL - Basketball Braunschweig vs Wurzburg" tvg-name="17:30 BBL : Basketball Braunschweig vs Wurzburg - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 8 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-109.php
+
+#EXTINF:-1 tvg-id="BBL - Basketball Braunschweig vs Wurzburg" tvg-name="17:30 BBL : Basketball Braunschweig vs Wurzburg - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="BBL - Alba Berlin vs. Ulm Basketball" tvg-name="19:00 BBL : Alba Berlin vs. Ulm Basketball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 5 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-940.php
+
+#EXTINF:-1 tvg-id="BBL - Alba Berlin vs. Ulm Basketball" tvg-name="19:00 BBL : Alba Berlin vs. Ulm Basketball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="BBL - Alba Berlin vs. Ulm Basketball" tvg-name="19:00 BBL : Alba Berlin vs. Ulm Basketball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="Iceland Basketball Premier League - UMF Tindastoll vs Stjarnan" tvg-name="21:00 Iceland Basketball Premier League : UMF Tindastoll vs Stjarnan - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Stöð 2 Sport 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-110.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Los Angeles Sparks W" tvg-name="03:00 WNBA : Phoenix Mercury W vs Los Angeles Sparks W - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-982.php
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Golden State Valkyries W" tvg-name="03:00 WNBA : Washington Mystics W vs Golden State Valkyries W - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-778.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-338.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", truTV USA
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-341.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-111.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 1 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 1 NL
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV1 Portugal
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CANAL+ Sport Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cytavision Sports 6 Cyprus
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport X Denmark
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS English 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-61.php
+
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="01:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 1
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-91.php
+
+#EXTINF:-1 tvg-id="WSL Margaret River Stage - WSL Margaret River Stage" tvg-name="08:00 WSL Margaret River Stage - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating", Sportv3 Brazil
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-80.php
+
+#EXTINF:-1 tvg-id="WSL Margaret River Stage - WSL Margaret River Stage" tvg-name="00:00 WSL Margaret River Stage - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating", Sportv3 Brazil
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-80.php
+
+#EXTINF:-1 tvg-id="Portugal, League Cup - SC Braga vs. AD Fundao" tvg-name="19:30 Portugal, League Cup : SC Braga vs. AD Fundao - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Canal 11 Portugal HD
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-540.php
+
+#EXTINF:-1 tvg-id="Portugal, League Cup - Leoes Porto Salvo vs. CRC Quinta Lombos" tvg-name="21:00 Portugal, League Cup : Leoes Porto Salvo vs. CRC Quinta Lombos - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Canal 11 Portugal HD
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-540.php
+
+#EXTINF:-1 tvg-id="Czech Republic Extraliga - Talent Plzen vs. HCB Karvina" tvg-name="15:30 Czech Republic Extraliga : Talent Plzen vs. HCB Karvina - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", CT Sport Czech HD
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-17.php
+
+#EXTINF:-1 tvg-id="Slovenian Super Cup - 1/2 Final (G2): Trebnje vs Slovan" tvg-name="17:00 Slovenian Super Cup: 1/2 Final (G2): Trebnje vs Slovan - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport Klub 1 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Serbia Super Liga, Women - Zeleznicar vs ŽRK Crvena Zvezda" tvg-name="17:00 Serbia Super Liga, Women : Zeleznicar vs ŽRK Crvena Zvezda - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Sport 3 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-431.php
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Rhein-Neckar Lowen vs. VfL Gummersbach" tvg-name="18:00 Handball-Bundesliga : Rhein-Neckar Lowen vs. VfL Gummersbach - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Sport 2 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Rhein-Neckar Lowen vs. VfL Gummersbach" tvg-name="18:00 Handball-Bundesliga : Rhein-Neckar Lowen vs. VfL Gummersbach - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Hungary
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-18.php
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - Rhein-Neckar Lowen vs. VfL Gummersbach" tvg-name="18:00 Handball-Bundesliga : Rhein-Neckar Lowen vs. VfL Gummersbach - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", TV3 Sport Denmark
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-809.php
+
+#EXTINF:-1 tvg-id="LFH Women - Brest Bretagne HB vs. JDA Dijon Handball" tvg-name="19:00 LFH Women : Brest Bretagne HB vs. JDA Dijon Handball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", beIN Sports 1 France
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
+
+#EXTINF:-1 tvg-id="Slovenian League (M) - Playoff - 1/3 Final (G2) : Gorenje vs Celje" tvg-name="19:15 Slovenian League (M): Playoff - 1/3 Final (G2) : Gorenje vs Celje - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport Klub 7 Croatia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
+
+#EXTINF:-1 tvg-id="Austria HLA Meisterliga - HC Linz AG vs. UHK Krems" tvg-name="19:20 Austria HLA Meisterliga : HC Linz AG vs. UHK Krems - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", ORF Sport Plus
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-19.php
+
+#EXTINF:-1 tvg-id="Superliga - Gornik Zabrze vs. Wisla Plock" tvg-name="19:30 Superliga : Gornik Zabrze vs. Wisla Plock - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Polsat Sport 1 Poland
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Premier Padel, First Round" tvg-name="14:00 Premier Padel, First Round - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 1 Malaysia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="A1 Ethniki - Vouliagmeni vs Olympiacos" tvg-name="15:30 A1 Ethniki : Vouliagmeni vs Olympiacos - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", ERT 2 Greece
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="Serbia Super liga - Radnicki vs Novi Beograd" tvg-name="19:30 Serbia Super liga : Radnicki vs Novi Beograd - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Arena Sport 3 Serbia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-431.php
+
+#EXTINF:-1 tvg-id="Swimming, Barcelona 22.5 - Swimming, Barcelona 22.5" tvg-name="16:00 Swimming, Barcelona 22.5 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Sport 3 Israel
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
 
